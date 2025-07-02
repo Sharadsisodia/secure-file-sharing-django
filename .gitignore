@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore secret settings
+.env
+
+# Ignore database
+db.sqlite3
+
+# Ignore VS Code and system files
+.vscode/
+*.log
+*.bak
+.DS_Store
